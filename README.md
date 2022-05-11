@@ -1,4 +1,4 @@
-# ads-2020
+# ADS 2020 - IFSP Catanduva
 Repositório pessoal do curso de ADS - IFSP
 
 
