@@ -13,10 +13,6 @@ public class ImdbController : ControllerBase
 
     private static List<Imdb> movies = new List<Imdb>();
 
-    [HttpGet]
-    public ActionResult<String> Get(){
-        return Ok("Olá Mundo");
-    }
 
     [HttpGet("{id}")] // estadoProcesso, com base no id, verifica o estado do processo (ID, número de clicos e status de execução).
     public ActionResult<Imdb> GetImdb(int id){
