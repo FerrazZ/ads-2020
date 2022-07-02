@@ -1,0 +1,253 @@
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/bin/Debug/net6.0/appsettings.Development.json
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/bin/Debug/net6.0/appsettings.json
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/bin/Debug/net6.0/methods.exe
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/bin/Debug/net6.0/methods.deps.json
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/bin/Debug/net6.0/methods.runtimeconfig.json
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/bin/Debug/net6.0/methods.dll
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/bin/Debug/net6.0/methods.pdb
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/methods.csproj.AssemblyReference.cache
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/methods.AssemblyInfoInputs.cache
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/methods.AssemblyInfo.cs
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/methods.csproj.CoreCompileInputs.cache
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cs
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cache
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/staticwebassets.build.json
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/staticwebassets.development.json
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/scopedcss/bundle/methods.styles.css
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/methods.csproj.CopyComplete
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/methods.dll
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/refint/methods.dll
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/methods.pdb
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/methods.genruntimeconfig.cache
+D:/ifsp/disciplinas/LD1/lab-dev/aula_4/methods/obj/Debug/net6.0/ref/methods.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.csproj.AssemblyReference.cache
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.AssemblyInfoInputs.cache
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.AssemblyInfo.cs
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.csproj.CoreCompileInputs.cache
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/refint/methods.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.pdb
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/appsettings.json
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/methods.exe
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/methods.deps.json
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/methods.runtimeconfig.json
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/methods.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/methods.pdb
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/scopedcss/bundle/methods.styles.css
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.csproj.CopyComplete
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.genruntimeconfig.cache
+C:/Users/Victor/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/ref/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.csproj.AssemblyReference.cache
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.AssemblyInfoInputs.cache
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.AssemblyInfo.cs
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.csproj.CoreCompileInputs.cache
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/refint/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.pdb
+C:/Users/victo/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/victo/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/appsettings.json
+C:/Users/victo/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/methods.exe
+C:/Users/victo/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/methods.deps.json
+C:/Users/victo/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/methods.runtimeconfig.json
+C:/Users/victo/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/methods.pdb
+C:/Users/victo/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/victo/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/victo/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/victo/OneDrive/Área de Trabalho/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/scopedcss/bundle/methods.styles.css
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.csproj.CopyComplete
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/methods.genruntimeconfig.cache
+C:/Users/victo/OneDrive/Área de Trabalho/methods/obj/Debug/net6.0/ref/methods.dll
+E:/methods/obj/Debug/net6.0/methods.csproj.AssemblyReference.cache
+E:/methods/obj/Debug/net6.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+E:/methods/obj/Debug/net6.0/methods.AssemblyInfoInputs.cache
+E:/methods/obj/Debug/net6.0/methods.AssemblyInfo.cs
+E:/methods/obj/Debug/net6.0/methods.csproj.CoreCompileInputs.cache
+E:/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cs
+E:/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cache
+E:/methods/obj/Debug/net6.0/methods.dll
+E:/methods/obj/Debug/net6.0/refint/methods.dll
+E:/methods/obj/Debug/net6.0/methods.pdb
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/appsettings.json
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/methods.exe
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/methods.deps.json
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/methods.runtimeconfig.json
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/methods.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/methods.pdb
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.csproj.AssemblyReference.cache
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.AssemblyInfoInputs.cache
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.AssemblyInfo.cs
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.csproj.CoreCompileInputs.cache
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/scopedcss/bundle/methods.styles.css
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.csproj.CopyComplete
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/refint/methods.dll
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.pdb
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.genruntimeconfig.cache
+C:/Users/Victor/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/ref/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.csproj.AssemblyReference.cache
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.AssemblyInfoInputs.cache
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.AssemblyInfo.cs
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.csproj.CoreCompileInputs.cache
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/refint/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.pdb
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/appsettings.json
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/methods.exe
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/methods.deps.json
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/methods.runtimeconfig.json
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/methods.pdb
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/scopedcss/bundle/methods.styles.css
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.csproj.CopyComplete
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/methods.genruntimeconfig.cache
+C:/Users/victo/OneDrive/Área de Trabalho/cod escalonamento maxuel/methods/obj/Debug/net6.0/ref/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/appsettings.json
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/methods.exe
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/methods.deps.json
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/methods.runtimeconfig.json
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/methods.pdb
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.csproj.AssemblyReference.cache
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.AssemblyInfoInputs.cache
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.AssemblyInfo.cs
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.csproj.CoreCompileInputs.cache
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/scopedcss/bundle/methods.styles.css
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.csproj.CopyComplete
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/refint/methods.dll
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.pdb
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.genruntimeconfig.cache
+C:/Users/victo/OneDrive/Área de Trabalho/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/ref/methods.dll
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.csproj.AssemblyReference.cache
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.AssemblyInfoInputs.cache
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.AssemblyInfo.cs
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.csproj.CoreCompileInputs.cache
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cs
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.MvcApplicationPartsAssemblyInfo.cache
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.dll
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/refint/methods.dll
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.pdb
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/appsettings.Development.json
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/appsettings.json
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/methods
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/methods.deps.json
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/methods.runtimeconfig.json
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/methods.dll
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/methods.pdb
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/staticwebassets.build.json
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/staticwebassets.development.json
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/scopedcss/bundle/methods.styles.css
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.csproj.CopyComplete
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/methods.genruntimeconfig.cache
+/home/isaias/Documentos/ProjetoEscalonamentoDeProcessos - Lab Dev1/methods/obj/Debug/net6.0/ref/methods.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\appsettings.json
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\methods.exe
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\methods.deps.json
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\methods.runtimeconfig.json
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\methods.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\methods.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.csproj.AssemblyReference.cache
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.AssemblyInfoInputs.cache
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.AssemblyInfo.cs
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\scopedcss\bundle\methods.styles.css
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.csproj.CopyComplete
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\refint\methods.dll
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.pdb
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.genruntimeconfig.cache
+C:\Users\Victor\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\ref\methods.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\appsettings.json
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\methods.exe
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\methods.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\methods.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\methods.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\methods.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\scopedcss\bundle\methods.styles.css
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.csproj.CopyComplete
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\refint\methods.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\methods.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Cod flavio\methods\obj\Debug\net6.0\ref\methods.dll
